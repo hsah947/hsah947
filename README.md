@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Chat App, Machine Learning, Advance Algorithm**
 
-- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1w5-Ugiqt-GbHugBKam1UvLyMGOg-JYD4/view?usp=share_link" target = "blank">Get my resume here</a>
+- 📄 Know about my experiences: <a href = "https://drive.google.com/file/d/1M4XbuaZcxRVM0K3KbWrLodI2FalRiM3H/view" target = "blank">Get my resume here</a>
 <br/>
 <br/>
 <h3 align="left">Connect with me:</h3>
